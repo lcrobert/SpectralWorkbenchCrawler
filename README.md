@@ -3,8 +3,7 @@ Crawl SpectralWorkbench website  to get the spectrum image and its information b
 
 Version 1.0.0
 
-
-
+<br>
 
 ### Simple Description :
 
@@ -17,15 +16,14 @@ Version 1.0.0
   There are about 100 words in the filter currently, you can modify it by yourself. Finally,
   saving the spectrum image and information if valuable.
 
-* ##### The two functions of the program :
+* #### The two functions of the program :
 
-  - Fuction1 - Set one or more TargetIDs and the number of counting backwards.
-    ​    ​               Ex:Set ID = 90000,5000 and counting backwards number = 1000, the program 
-    ​    ​                    will crawl the webpage from ID 90000 to 89001 and 5000 to 4001. 
+  - Fuction1 - Set one or more TargetIDs and the number of counting backwards.<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex: Set ID = 90000,5000 and counting backwards number = 1000, the program will crawl the webpage<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from ID 90000 to 89001 and 5000 to 4001. 
   - Fuction2 - Get the latest ID of the uploaded spectrum.<br>
 
-
-
+<br>
 
 ### User Guide :
 
@@ -33,13 +31,12 @@ Version 1.0.0
 
 * Step 2 - Just run swc_main.py file by python3 
     ```bash
-     	$ python3 swc_main.py
+    $ python3 swc_main.py
     ```
 * Step 3 - Following the instructions enter the parameters.
 * Note : The downloaded image, data table, log file will be stored under Save directory.<br>
 
-
-
+<br>
 
 ### Snapshots:
 
@@ -47,7 +44,7 @@ Version 1.0.0
 
   ![](https://lcycblog.files.wordpress.com/2018/09/swc_cmd.png "Program snapshot")
 
-
+<br>
 
 - The snapshot of created  DataTable<br>
 
